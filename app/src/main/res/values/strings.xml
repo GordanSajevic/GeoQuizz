@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GeoQuizz</string>
+
+    <string name="question1">Đes ba jarane?</string>
+    <string name="question2">Imal šta na vuglu buraz?</string>
+    <string name="question3">Imal gudre?</string>
+    <string name="question4">Kad ćemo se puhnut?</string>
+
+    <string name="true_label">True</string>
+    <string name="false_label">False</string>
+
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
